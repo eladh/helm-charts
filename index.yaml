@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  bullfrog-helm-chart:
+  bullfrog:
   - apiVersion: v1
-    appVersion: 0.10.12
-    created: 2019-05-22T13:47:39.005812+03:00
-    description: A Helm chart for bullfrog APM
-    digest: 5dff6b35ccea3f469ff5898632837366f9d91f52b618d48ca409f50dbbb60064
-    name: bullfrog-helm-chart
+    appVersion: "1.0"
+    created: 2019-05-22T14:59:30.273218+03:00
+    description: A Helm chart for Bullfrog
+    digest: 39021582cead757a82d338120f7682045a5fb3cefc600951860a1d066a3dd0fc
+    name: bullfrog
     urls:
-    - bullfrog-helm-chart-1.0.0.tgz
-    version: 1.0.0
-generated: 2019-05-22T13:47:39.004815+03:00
+    - bullfrog-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-05-22T14:59:30.272144+03:00
