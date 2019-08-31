@@ -3,7 +3,7 @@ entries:
   glowroot:
   - apiVersion: v1
     appVersion: 0.13.4
-    created: 2019-05-29T16:52:11.249761+03:00
+    created: 2019-08-31T23:31:19.373982+03:00
     description: A Helm chart for Glowroot APM
     digest: cf62c039c0464c897ec3ceeef3c3284f1bf2876a98eac2be3396d80adbf0e278
     name: glowroot
@@ -13,11 +13,21 @@ entries:
   sshd-dev:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-29T16:52:11.250043+03:00
+    created: 2019-08-31T23:31:19.374209+03:00
     description: sshd server for swampup workshop
     digest: 48ccede9c3b1ab405c71cec902b1b954313be377e12ed381ef2ff3fec6ce63a2
     name: sshd-dev
     urls:
     - sshd-dev-0.1.0.tgz
     version: 0.1.0
-generated: 2019-05-29T16:52:11.248025+03:00
+  sshd-docker-dev:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-08-31T23:31:19.374408+03:00
+    description: sshd server for swampup workshop
+    digest: ffabbbcafc73ad3404bed257a22e2a745b0c7bdf1acef064b3aef71bc3e27e54
+    name: sshd-docker-dev
+    urls:
+    - sshd-docker-dev-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-08-31T23:31:19.373023+03:00
